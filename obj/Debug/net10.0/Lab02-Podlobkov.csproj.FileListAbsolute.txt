@@ -12,3 +12,4 @@ C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\refint\Lab02-Podlob
 C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.pdb
 C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.genruntimeconfig.cache
 C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\ref\Lab02-Podlobkov.dll
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.sourcelink.json
