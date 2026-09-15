@@ -1,0 +1,14 @@
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.AssemblyInfoInputs.cache
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.AssemblyInfo.cs
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.csproj.CoreCompileInputs.cache
+C:\Users\core i3\Documents\Lab02-Podlobkov\bin\Debug\net10.0\Lab02-Podlobkov.exe
+C:\Users\core i3\Documents\Lab02-Podlobkov\bin\Debug\net10.0\Lab02-Podlobkov.deps.json
+C:\Users\core i3\Documents\Lab02-Podlobkov\bin\Debug\net10.0\Lab02-Podlobkov.runtimeconfig.json
+C:\Users\core i3\Documents\Lab02-Podlobkov\bin\Debug\net10.0\Lab02-Podlobkov.dll
+C:\Users\core i3\Documents\Lab02-Podlobkov\bin\Debug\net10.0\Lab02-Podlobkov.pdb
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.dll
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\refint\Lab02-Podlobkov.dll
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.pdb
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\Lab02-Podlobkov.genruntimeconfig.cache
+C:\Users\core i3\Documents\Lab02-Podlobkov\obj\Debug\net10.0\ref\Lab02-Podlobkov.dll
