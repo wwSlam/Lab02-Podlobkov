@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Границы целочисленных типов");
+﻿using System.Data;
+using System.Runtime.InteropServices;
+
+Console.WriteLine("Границы целочисленных типов");
 Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
 Console.WriteLine($"short: {short.MinValue} .. {short.MaxValue}");
 Console.WriteLine($"int: {int.MinValue} .. {int.MaxValue}");
@@ -129,3 +132,23 @@ double ves = double.Parse(Console.ReadLine());
 double IMT = ves / (rost * rost);
 
 Console.WriteLine($"IMT: {IMT:F2}");
+
+
+Console.WriteLine();
+Console.WriteLine("TryParse");
+
+Console.Write("Введите целое число: ");
+string intInput = Console.ReadLine();
+bool isIntInput = int.TryParse(intInput, out int intValue);
+
+Console.Write("Введите дробное число: ");
+string doubleInput = Console.ReadLine();
+bool isDouble = double.TryParse(doubleInput, out double doubleValue);
+
+Console.Write("Введите дату: ");
+string dateInput = Console.ReadLine();
+bool isDateInput = DateTime.TryParse(dateInput, out DateTime dateValue);
+
+Console.WriteLine($"Успешно: {isIntInput}, Полученное значение: {intValue}");
+Console.WriteLine($"Успешно: {isDouble}, Полученное значение: {doubleValue}");
+Console.WriteLine($"Успешно: {isDateInput}, Полученное значение: {dateValue}");
