@@ -104,3 +104,15 @@ Console.WriteLine($"Год рождения: {godlet} (в 2030 году вам �
 Console.WriteLine($"Средний балл: {srdnNum}");
 Console.WriteLine($"Балл: {srdnNum >= 4.6}");
 Console.WriteLine($"Любимая буква: {bukva}");
+
+
+Console.WriteLine();
+Console.WriteLine("Разбор ФИО через char");
+
+Console.Write("Введите Имя: ");
+string Name = Console.ReadLine();
+Console.Write("Введите Фамилию: ");
+string Famil = Console.ReadLine();
+
+char firstName = Name[0];
+Console.WriteLine($"{Famil} {firstName}.");
