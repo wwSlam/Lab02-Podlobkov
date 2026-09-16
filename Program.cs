@@ -116,3 +116,16 @@ string Famil = Console.ReadLine();
 
 char firstName = Name[0];
 Console.WriteLine($"{Famil} {firstName}.");
+
+
+Console.WriteLine();
+Console.WriteLine("Калькулятор ИМТ");
+
+Console.Write("Назовите рост в метрах: ");
+double rost = double.Parse(Console.ReadLine());
+Console.Write("Назовите вес в килограммах: ");
+double ves = double.Parse(Console.ReadLine());
+
+double IMT = ves / (rost * rost);
+
+Console.WriteLine($"IMT: {IMT:F2}");
